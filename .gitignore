@@ -171,5 +171,5 @@ poetry.toml
 pyrightconfig.json
 
 
-*.onnx
-*.pth
+# *.onnx
+# *.pth
